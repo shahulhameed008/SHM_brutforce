@@ -6,7 +6,7 @@
 - Python 3.x
 - `requests` library (install with `pip install requests`)
 
-## Usage:
+## Procedure:
 1. Make sure you have Python installed on your system.
 2. Install the required libraries by running the following commands:
 
@@ -17,10 +17,10 @@
 4. Run the script using the following command:
 
 ```python
-python script.py
+python filename.py
 ```
 
-5. The script will prompt you to provide the necessary information:
+5. The script will ask you to provide the necessary information:
 
 - Enter the URL of the login page.
 - Enter the username for the account you want to brute-force.
